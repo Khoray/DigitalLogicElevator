@@ -1,0 +1,1 @@
+-wto "21d3ec540f7d45da8007be11d8f3428f" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "fangzhen_dfa_behav" "xil_defaultlib.fangzhen_dfa" "xil_defaultlib.glbl" -log "elaborate.log" 

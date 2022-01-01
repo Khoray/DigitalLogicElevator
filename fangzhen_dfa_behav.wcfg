@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="fangzhen_dfa_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="fangzhen_dfa" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="159129000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="130"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/fangzhen_dfa/floor" type="array">
+      <obj_property name="ElementShortName">floor[15:0]</obj_property>
+      <obj_property name="ObjectShortName">floor[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fangzhen_dfa/btn_off" type="array">
+      <obj_property name="ElementShortName">btn_off[4:0]</obj_property>
+      <obj_property name="ObjectShortName">btn_off[4:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/fangzhen_dfa/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fangzhen_dfa/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fangzhen_dfa/nfloor" type="array">
+      <obj_property name="ElementShortName">nfloor[4:0]</obj_property>
+      <obj_property name="ObjectShortName">nfloor[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fangzhen_dfa/dfa1/curr_state" type="array">
+      <obj_property name="ElementShortName">curr_state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">curr_state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fangzhen_dfa/dfa1/next_floor" type="array">
+      <obj_property name="ElementShortName">next_floor[15:0]</obj_property>
+      <obj_property name="ObjectShortName">next_floor[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fangzhen_dfa/dfa1/next_state" type="array">
+      <obj_property name="ElementShortName">next_state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">next_state[3:0]</obj_property>
+   </wvobject>
+</wave_config>

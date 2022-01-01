@@ -1,0 +1,13 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/document/verilog/elevator/elevator.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sim_1/new/fangzhen.v,1641043717,verilog,,,,fangzhen,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sim_1/new/fangzhen_check.v,1641046294,verilog,,,,fangzhen_check,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sim_1/new/fangzhen_dfa.v,1641050046,verilog,,,,fangzhen_dfa,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sources_1/new/button.v,1641050204,verilog,,E:/document/verilog/elevator/elevator.srcs/sources_1/new/checkupordown.v,,button,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sources_1/new/checkupordown.v,1641045904,verilog,,E:/document/verilog/elevator/elevator.srcs/sources_1/new/dfa.v,,checkupordown,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sources_1/new/dfa.v,1641048551,verilog,,E:/document/verilog/elevator/elevator.srcs/sources_1/new/displaysegs.v,,dfa,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sources_1/new/displaysegs.v,1641040045,verilog,,E:/document/verilog/elevator/elevator.srcs/sources_1/new/main.v,,displaysegs,,,,,,,,
+E:/document/verilog/elevator/elevator.srcs/sources_1/new/main.v,1641050109,verilog,,E:/document/verilog/elevator/elevator.srcs/sim_1/new/fangzhen_dfa.v,,main,,,,,,,,
